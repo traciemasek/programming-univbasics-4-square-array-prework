@@ -6,4 +6,5 @@ def square_array(array)
     squared_nums << array[counter]**2
     counter += 1
   end
+  squared_nums
 end
